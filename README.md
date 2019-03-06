@@ -1,7 +1,14 @@
-# A regularized tri-linear approach for optical interferometric imaging
+# Minimal Theme
 
-Description: Matlab code associated with the method developed in J. Birdi, A. Repetti, and Y. Wiaux - A regularized tri-linear approach for optical interferometric imaging, MNRAS, 468, 1142
+[Demo the Theme](http://orderedlist.github.com/minimal/)
 
-Author: Jasleen Birdi, jb36@hw.ac.uk
+This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
 
-Experiments: Configure and run OI_monochromatic_imaging_code.m for monochromatic imaging and OI_hyperspectral_imaging_code.m for hyperspectral imaging
+Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
+
+# License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+
+
+
